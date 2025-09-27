@@ -211,6 +211,13 @@
         android:summary="@string/pif_data_summary"
         android:defaultValue=""/>
 
+    <com.android.settings.clover.preference.SecureSettingSwitchPreference
+        android:order="255"
+        android:key="gms_cert_chain"
+        android:title="@string/gms_cert_chain_title"
+        android:summary="@string/gms_cert_chain_summary"
+        android:defaultValue="false" />
+
     <Preference
         android:order="260"
         android:key="encryption_and_credential"
