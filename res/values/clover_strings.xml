@@ -198,4 +198,8 @@
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Screenshot sound</string>
 
+    <!-- LMOFreeform -->
+    <string name="sidebar_label">Sidebar</string>
+    <string name="sidebar_summary">Quickly open apps in a floating window</string>
+
 </resources>
